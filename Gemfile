@@ -16,7 +16,7 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 
 gem 'js-routes'
-gem 'react-rails', '1.2.0'
+gem 'react-rails', '1.5.0'
 
 source 'https://rails-assets.org' do
   gem 'rails-assets-classnames'
